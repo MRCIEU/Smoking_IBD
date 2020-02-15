@@ -17,8 +17,5 @@ The scripts should be run in the following order...
 
 3. Summary level MR analysis:
 * Summary MR Analysis.R
-* SmokingInitiationSNPs.txt
-* LifetimeSmokingSNPs.txt
-* UCbetas.txt
-* CDbetas.txt
-* IBDbetas.txt
+* CSI&IBD_Proxies.txt
+* SInit&IBD_Proxies.txt
